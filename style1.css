@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+main p {
+    font-size: 40px;
+}
+main a {
+    font-size: 40px;
+    text-decoration: none;
+    color:black;
+}
