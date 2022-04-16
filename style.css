@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #006363;
+}
+header img {
+    margin: 40px 30px 20px 40px;
+    padding: 0px 0px 10px 0px;
+}
+main h1 {
+    margin: 20px 30px 10px 100px;
+    color: #33CCCC;
+}
+.p {
+    font-size: 40px;
+    text-decoration:none;
+    color: black;
+}
+.f {
+    font-size: 40px;
+    text-decoration:none;
+    color: black;
+}
+.m {
+    font-size: 40px;
+    text-decoration:none;
+    color: black;
+}
